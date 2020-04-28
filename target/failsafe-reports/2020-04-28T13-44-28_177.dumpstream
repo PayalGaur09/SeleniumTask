@@ -1,0 +1,18 @@
+# Created on 2020-04-28T13:44:28.179
+Java HotSpot(TM) 64-Bit Server VM warning: Ignoring option MaxPermSize; support was removed in 8.0
+
+# Created on 2020-04-28T13:44:29.226
+WARNING: An illegal reflective access operation has occurred
+
+# Created on 2020-04-28T13:44:29.227
+WARNING: Illegal reflective access by com.google.inject.internal.cglib.core.$ReflectUtils$1 (file:/C:/Users/Payal/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0.jar) to method java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain)
+
+# Created on 2020-04-28T13:44:29.229
+WARNING: Please consider reporting this to the maintainers of com.google.inject.internal.cglib.core.$ReflectUtils$1
+
+# Created on 2020-04-28T13:44:29.230
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created on 2020-04-28T13:44:29.230
+WARNING: All illegal access operations will be denied in a future release
+

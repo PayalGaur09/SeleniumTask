@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Automation Task of the Work Order Application","Create an admin and cross verify the detail entered","SUCCESS","2020-04-28T13:44:30.0851472+05:30[Asia/Calcutta]","0.0","26.9"
+"Automation Task of the Work Order Application","To verify validations on add user screen","SUCCESS","2020-04-28T13:44:56.9921764+05:30[Asia/Calcutta]","0.0","6.16"
+"Automation Task of the Work Order Application","verify GUI components of Work order dashboard","SUCCESS","2020-04-28T13:45:03.1564495+05:30[Asia/Calcutta]","0.0","5.81"

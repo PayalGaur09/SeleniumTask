@@ -1,0 +1,9 @@
+utilities\LoadProperties.class
+pages\DashboardPage.class
+steps\DashboardSteps.class
+utilities\ConfigLoader.class
+models\DetailsModel.class
+steps\UserManagementSteps.class
+utilities\RandomGenerator.class
+pages\UserManagementPage.class
+RunTests.class
